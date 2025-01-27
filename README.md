@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
-<h1 align="center">Hi There 👋, I'm Ramiz Ali</h1>
+# Hi There 👋, I'm Ramiz Ali
 
 
 <h2> What Do I Do? </h2>
@@ -16,9 +16,9 @@
 <br>
 
 <h2> Significant Contributions </h2>
-<b>Irvinei</b> - Innovative AI-powered Home Security System.
-<b>Hassana's CMS</b> - Customized a .NET based Open-Source CMS for Hassana's digital operations.  
-<b>Unilever LeverEdge</b> - Unilever's next generation microservice based distribution system.
+<div><b>Irvinei</b> - Innovative AI-powered Home Security System.</div>
+<div><b>Hassana's CMS</b> - Customized a .NET based Open-Source CMS for Hassana's digital operations.</div>
+<div><b>Unilever LeverEdge</b> - Unilever's next generation microservice based distribution system.</div>
 
 <br>
 <br>
@@ -44,11 +44,22 @@
 <br>
 <br>
 
-<h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/ramiz-aly/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://ramizaly02.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.github.com/https://github.com/ramizaly'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
+<a href="https://ramizaly02.medium.com/">
+    <img height="45" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
+</a>  
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ramiz-aly/">
+  <img height="45" alt="RashidWassan | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
+</a> 
+<a href="https://www.instagram.com/ramizzaly?igsh=MWhqdDV4bTZib2dlYw==">
+  <img height="45" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
+</a>
+
+
+
+<br>
+<br>
 
 <h3 align="center">Let's Create Something Magical Together ✨</h3>
 
