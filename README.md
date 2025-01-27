@@ -45,7 +45,7 @@ My Name is Ramiz Ali. So Nice of you to be here :)
 <br>
 <br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="35px" height=35px> </h2>
 
 <a href="https://ramizaly02.medium.com/">
     <img height="45" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
