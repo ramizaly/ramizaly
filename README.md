@@ -59,7 +59,7 @@ My Name is Ramiz Ali. So Nice of you to be here :)
 <br>
 <br>
 
-<h1></h1>
+
 <h3 align="center">Let's Create Something Magical Together ✨</h3>
 
 <!--
