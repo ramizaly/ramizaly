@@ -2,7 +2,8 @@
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
-# Hi There 👋, I'm Ramiz Ali
+# Hi There 👋
+My Name is Ramiz Ali. So Nice of you to be here :)
 
 
 <h2> What Do I Do? </h2>
@@ -16,9 +17,9 @@
 <br>
 
 <h2> Significant Contributions </h2>
-<div><b>Irvinei</b> - Innovative AI-powered Home Security System.</div>
-<div><b>Hassana's CMS</b> - Customized a .NET based Open-Source CMS for Hassana's digital operations.</div>
-<div><b>Unilever LeverEdge</b> - Unilever's next generation microservice based distribution system.</div>
+<div><b> 🔭 Irvinei</b> - Innovative AI-powered Home Security System.</div>
+<div><b> 🔭 Hassana's CMS</b> - Customized a .NET based Open-Source CMS for Hassana's digital operations.</div>
+<div><b> 🔭 Unilever LeverEdge</b> - Unilever's next generation microservice based distribution system.</div>
 
 <br>
 <br>
