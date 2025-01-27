@@ -1,6 +1,4 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
-</div>
+
 
 # Hi There 👋
 My Name is Ramiz Ali. So Nice of you to be here :)
