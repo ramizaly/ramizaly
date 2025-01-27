@@ -8,8 +8,7 @@ My Name is Ramiz Ali. So Nice of you to be here :)
 
 <h2> What Do I Do? </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-<h4> - 🌱 I am a DevOps engineer with extensive experience in designing and implementing seamless workflows while automating routine, repetitive tasks. I am also responsible for creating highly secure architectures for both on-premises and cloud infrastructures, ensuring robust security and compliance for organizations. Basically, I help businesses streamline operations and reduce manual intervention, while safeguarding critical data and systems from potential threats</h4>
-
+- 🌱 I am a DevOps engineer with extensive experience in designing and implementing seamless workflows while automating routine, repetitive tasks. I am also responsible for creating highly secure architectures for both on-premises and cloud infrastructures, ensuring robust security and compliance for organizations. Basically, I help businesses streamline operations and reduce manual intervention, while safeguarding critical data and systems from potential threats
 
 ![](https://komarev.com/ghpvc/?username=ramizaly&color=blueviolet)
 
