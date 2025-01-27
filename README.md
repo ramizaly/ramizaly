@@ -11,10 +11,10 @@ My Name is Ramiz Ali. So Nice of you to be here :)
 <h4> - 🌱 I am a DevOps engineer with extensive experience in designing and implementing seamless workflows while automating routine, repetitive tasks. I am also responsible for creating highly secure architectures for both on-premises and cloud infrastructures, ensuring robust security and compliance for organizations. Basically, I help businesses streamline operations and reduce manual intervention, while safeguarding critical data and systems from potential threats</h4>
 
 
-![](https://komarev.com/ghpvc/?username=ramizaly&color=purple)
+![](https://komarev.com/ghpvc/?username=ramizaly&color=blueviolet)
 
 <br>
-<br>
+
 
 <h2> Significant Contributions </h2>
 <div><b> 🔭 Irvinei</b> - Innovative AI-powered Home Security System.</div>
@@ -22,7 +22,7 @@ My Name is Ramiz Ali. So Nice of you to be here :)
 <div><b> 🔭 Unilever LeverEdge</b> - Unilever's next generation microservice based distribution system.</div>
 
 <br>
-<br>
+
 
 <h2> Skills & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/ramizaly?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
