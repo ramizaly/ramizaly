@@ -24,7 +24,7 @@ My Name is Ramiz Ali. So Nice of you to be here :)
 <br>
 
 
-<h2> Skills & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2> Skills & Tools 💬 </h2>
 <a href= https://github.com/https://github.com/ramizaly?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://github.com/ramizaly?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/https://github.com/ramizaly?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
@@ -62,6 +62,7 @@ My Name is Ramiz Ali. So Nice of you to be here :)
 <br>
 <br>
 
+<h1></h1>
 <h3 align="center">Let's Create Something Magical Together ✨</h3>
 
 <!--
